@@ -1,6 +1,6 @@
-<h1 align="center">Hello there 👋, I am Simon</h1>
-<h3 align="center">I am Simon Hyksa, 19-year old computer science student.</h3>
-<h3 align='center'>⚡ Fun fact: using <a href='https://endeavouros.com/'>EndeavourOS</a></h3>
+<h1 align="center">Hello there 👋, I am Šimon</h1>
+<h3 align="center">I am Šimon Hyksa, 19-year old computer science student.</h3>
+<h3 align='center'>⚡ Fun fact: using <a href='https://endeavouros.com/'>EndeavourOS</a> + can bench press 100 kg</h3>
 
 <br/>
 
@@ -19,4 +19,4 @@
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='45px' height='45px' alt='javascript' align='center'/></a>
 </p>
 
-Credits: [Simon Hyksa](https://github.com/ArcTik44)
+Credits: [Šimon Hyksa](https://github.com/ArcTik44)
