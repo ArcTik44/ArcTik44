@@ -1,19 +1,9 @@
 <h1 align="center">Hello there 👋, I am Simon</h1>
 <h3 align="center">I am Simon Hyksa, 19-year old computer science student.</h3>
+<h3 align='center'>⚡ Fun fact: using <a href='https://endeavouros.com/'>EndeavourOS</a></h3>
 
-<!--
-**ArcTik44/ArcTik44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Technologies I'm working with:
 <p align="left">
   <a href='https://www.rust-lang.org/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png' height='45px' width='45px' align='center' alt='rust-lang' /></a>
@@ -28,3 +18,5 @@ Here are some ideas to get you started:
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='45px' height='45px' alt='css' align='center'></a>
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='45px' height='45px' alt='javascript' align='center'/></a>
 </p>
+
+Credits: [Simon Hyksa](https://github.com/ArcTik44)
