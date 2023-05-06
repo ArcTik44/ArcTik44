@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I am Šimon <img src="https://www.codewars.com/users/Lordus_Simonus69_420/badges/micro"></h1>
+<h1 align="center">Hello there 👋, I am Šimon <img src="https://www.codewars.com/users/Lordus_Simonus69_420/badges/micro" height='30px'></h1>
 <h3 align="center">I am Šimon Hyksa, 19-year old computer science student.</h3>
 <h3 align='center'>⚡ Fun fact: using <a href='https://endeavouros.com/'>EndeavourOS</a> + can bench press 100 kg</h3>
 
