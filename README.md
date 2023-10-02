@@ -15,6 +15,8 @@
   <a href='https://www.mongodb.com/'><img src='https://github.com/mongodb/mongo/raw/master/docs/leaf.svg' width='45px' height='45px' align='center' alt='mongodb'/></a>
   <a href='https://www.mysql.com/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' width='45px' height='45px' align='center' alt='mysql'/></a>
   <a href='https://www.python.org/'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' width='45px' height='45px' alt='python' align='center'/></a>
+  <a href='https://laravel.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' width='45px' height='45px' alt='laravel' align='center'/></a>
+  <a href='https://www.php.net/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png' width='45px' height='45px' alt='php' align='center'/></a>
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='45px' height='45px' alt='html' align='center'/></a>
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='45px' height='45px' alt='css' align='center'></a>
   <a href=''><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='45px' height='45px' alt='javascript' align='center'/></a>
