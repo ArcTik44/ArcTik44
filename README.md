@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I am Šimon <a href='https://www.codewars.com/users/ArcTik44'><img src="https://www.codewars.com/users/ArcTik44/badges/micro" height='30px'/></a></h1>
 <h3 align="center">I am Šimon Hyksa, 20-year old computer science student.</h3>
-<h3 align='center'>⚡ Fun fact: using <a href='https://nixos.org/'>NixOS</a> + can bench press 130 kg</h3>
+<h3 align='center'>⚡ Fun fact: using <a href='https://nixos.org/'>NixOS</a> + can bench press 135 kg</h3>
 
 <br/>
 
